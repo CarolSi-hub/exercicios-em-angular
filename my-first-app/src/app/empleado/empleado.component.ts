@@ -15,13 +15,17 @@ nombre="Carol";
 
 apellido="Andrade";
 
-private edad=32;
+edad=10;
 
-empresa="Trybe";
+// empresa="Trybe";
 
-getEdad(){
-  return this.edad;
-}
+// getEdad(){
+//   return this.edad;
+// }
+
+// llamaEmpresa(value:String){
+
+// }
 
   constructor() { }
 
